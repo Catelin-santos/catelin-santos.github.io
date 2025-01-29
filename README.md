@@ -3,7 +3,6 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Mr. Dunlea's Class</title>
 	   <a href="index.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
@@ -47,6 +46,5 @@
     <br>
     </center>
     </a>
-	  </body>
-	</html>
+
 
