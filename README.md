@@ -4,6 +4,9 @@
   <head>
     <meta charset="utf-8">
     <title>Mr. Dunlea's Class</title>
+	   <a href="index.html">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="aboutme.html">About Me</a>
   </head>
   <body bgcolor="#B682D4">
     <a href="index.html">Home</a>
@@ -24,9 +27,6 @@
 	    <title>Portfolio</title>
 	  </head>
 	  <body bgcolor="#86ADDC">
-    <a href="index.html">Home</a>
-    <a href="portfolio.html">Portfolio</a>
-    <a href="aboutme.html">About Me</a>
     <center>
     <h1>This is my Portfolio Page!</h1>
       <img src="images/portfolio.jpg" height="250">
