@@ -41,7 +41,6 @@
     </center>
 	  </body>
 	</html>
-<!doctype html>
 	<html lang="en">
 	  <head>
 	    <meta charset="utf-8">
@@ -63,7 +62,6 @@
     </center>
 	  </body>
 	</html>
-<!doctype html>
 	<html lang="en">
 	  <head>
 	    <meta charset="utf-8">
