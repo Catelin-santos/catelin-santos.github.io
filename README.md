@@ -20,9 +20,6 @@
 	    <title>Portfolio</title>
 	  </head>
 	  <body bgcolor="#FF8533">
-    <a href="index.html">Home</a>
-    <a href="portfolio.html">Portfolio</a>
-    <a href="aboutme.html">About Me</a>
     <center>
     <h1>This is my Portfolio Page!</h1>
       <img src="images/portfolio.jpg" height="250">
@@ -31,18 +28,10 @@
 	</html>
 	<html lang="en">
 	  <head>
-<!DOCTYPE html>
-	    <meta charset="utf-8">
-	    <title>Portfolio</title>
-	  </head>
-	  <head>
 	<meta charset="utf-8">
 	    <title>About Me</title>
 	  </head>
 	  <body bgcolor="#FFB3E6">
-    <a href="index.html">Home</a>
-    <a href="portfolio.html">Portfolio</a>
-    <a href="aboutme.html">About Me</a>
     <center>
     <h1>This is my family!</h1>
     <h2>   Me and my parents</h2>
