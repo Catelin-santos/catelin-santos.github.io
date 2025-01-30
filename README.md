@@ -41,7 +41,7 @@
 	    <title>Portfolio</title>
 	  </head>
 	  <head>
-	    <meta charset="utf-8">
+	<meta charset="utf-8">
 	    <title>About Me</title>
 	  </head>
 	  <body bgcolor="#FFB3E6">
