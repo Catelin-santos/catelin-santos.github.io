@@ -16,7 +16,7 @@
   <br>
   </body>
 	  <head>
-<!DOCTYPE html>
+<portfolio.html>
 	    <meta charset="utf-8">
 	    <title>Portfolio</title>
 	  </head>
