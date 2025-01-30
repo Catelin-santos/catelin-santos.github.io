@@ -10,7 +10,7 @@
       <h2>Garden One</h2>
       <img src="Images/garden1.jfif" height="400" class="aligncenter">
       <h2>Garden Two</h2>
-      <img src="Images/garden2.jfif" height="400" class="aligncenter">
+      <img src="Images/garden2.jpg" height="400" class="aligncenter">
    </center>
   <br>
   </body>
