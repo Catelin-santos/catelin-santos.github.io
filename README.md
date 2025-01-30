@@ -40,23 +40,6 @@
 	    <meta charset="utf-8">
 	    <title>Portfolio</title>
 	  </head>
-	  <body bgcolor="#FF8533">
-    <a href="index.html">Home</a>
-    <a href="portfolio.html">Portfolio</a>
-    <a href="aboutme.html">About Me</a>
-    <center>
-    <h1>This is my Portfolio Page!</h1>
-      <img src="images/portfolio.jpg" height="250">
-      <br>
-      <br>
-      <br>
-      <br>
-     <br>
-    <br>
-    </center>
-	  </body>
-	</html>
-	<html lang="en">
 	  <head>
 	    <meta charset="utf-8">
 	    <title>About Me</title>
