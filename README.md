@@ -16,6 +16,7 @@
   <br>
   </body>
 	  <head>
+<!DOCTYPE html>
 	    <meta charset="utf-8">
 	    <title>Portfolio</title>
 	  </head>
@@ -37,6 +38,7 @@
 	</html>
 	<html lang="en">
 	  <head>
+<!DOCTYPE html>
 	    <meta charset="utf-8">
 	    <title>Portfolio</title>
 	  </head>
