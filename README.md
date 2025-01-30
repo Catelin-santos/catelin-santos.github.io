@@ -18,6 +18,7 @@
 	    <meta charset="utf-8">
 	  </head>
 	  <body bgcolor="#FF8533">
+		  
    	 <center>
    	 <h1>Portfolio</h1>
 	<h2>This is my Portfolio Page!</h2>
@@ -30,6 +31,7 @@
 	<meta charset="utf-8">
 	  </head>
 	  <body bgcolor="#FFB3E6">
+   
     <center>
     <h1>This is my family!</h1>
     <h2>   Me and my parents</h2>
