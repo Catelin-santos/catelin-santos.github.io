@@ -16,10 +16,9 @@
   </body>
 	  <head>
 	    <meta charset="utf-8">
-	    <title>Portfolio</title>
 	  </head>
 	  <body bgcolor="#FF8533">
-   	 <center style="background-color: aquamarine;">
+   	 <center>
    	 <h1>This is my Portfolio Page!</h1>
     	  <img src="images/portfolio.jpg" height="250">
    	 </center>
@@ -28,7 +27,6 @@
 	<html lang="en">
 	  <head>
 	<meta charset="utf-8">
-	    <title>About Me</title>
 	  </head>
 	  <body bgcolor="#FFB3E6">
     <center>
