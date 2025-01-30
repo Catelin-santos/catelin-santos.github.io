@@ -19,11 +19,10 @@
 	    <title>Portfolio</title>
 	  </head>
 	  <body bgcolor="#FF8533">
-    <center>
-    <h1>This is my Portfolio Page!</h1>
-<body bgcolor="#DAF7A6">
-      <img src="images/portfolio.jpg" height="250">
-    </center>
+   	 <center style="background-color: aquamarine;">
+   	 <h1>This is my Portfolio Page!</h1>
+    	  <img src="images/portfolio.jpg" height="250">
+   	 </center>
 	  </body>
 	</html>
 	<html lang="en">
