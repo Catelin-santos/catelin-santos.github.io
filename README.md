@@ -4,13 +4,13 @@
     <a href="aboutme.html">About Me</a>
     <center style="background-color: aquamarine;">
       <h1>Home</h1>
-      <img src="images/house.jfif" height="400" class="aligncenter">
+      <img src="Images/house.jfif" height="400" class="aligncenter">
       <h2>PoolHouse</h2>
-      <img src="images/pool house.jfif" height="400" class="aligncenter">
+      <img src="Images/pool house.jfif" height="400" class="aligncenter">
       <h2>Garden One</h2>
-      <img src="images/garden 1.jfif" height="400" class="aligncenter">
+      <img src="Images/garden 1.jfif" height="400" class="aligncenter">
       <h2>Garden Two</h2>
-      <img src="images/garden 2.jfif" height="400" class="aligncenter">
+      <img src="Images/garden 2.jfif" height="400" class="aligncenter">
    </center>
   <br>
   </body>
