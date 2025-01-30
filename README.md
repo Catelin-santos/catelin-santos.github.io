@@ -19,7 +19,8 @@
 	  </head>
 	  <body bgcolor="#FF8533">
    	 <center>
-   	 <h1>This is my Portfolio Page!</h1>
+   	 <h1>Portfolio</h1>
+	<h2>This is my Portfolio Page!</h2>
     	  <img src="images/portfolio.jpg" height="250">
    	 </center>
 	  </body>
