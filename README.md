@@ -1,10 +1,4 @@
 # catelin-santos.github.io
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Mr. Dunlea's Class</title>
-  </head>
   <body bgcolor="#DAF7A6">
     <a href="index.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
