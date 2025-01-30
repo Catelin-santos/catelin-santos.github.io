@@ -1,4 +1,4 @@
-# catelin-santos.github.io
+<!DOCTYPE html>
   <body bgcolor="#DAF7A6">
     <a href="index.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
