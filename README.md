@@ -16,7 +16,6 @@
   <br>
   </body>
 	  <head>
-<portfolio.html>
 	    <meta charset="utf-8">
 	    <title>Portfolio</title>
 	  </head>
@@ -27,12 +26,6 @@
     <center>
     <h1>This is my Portfolio Page!</h1>
       <img src="images/portfolio.jpg" height="250">
-      <br>
-      <br>
-      <br>
-      <br>
-     <br>
-    <br>
     </center>
 	  </body>
 	</html>
@@ -54,12 +47,6 @@
     <h1>This is my family!</h1>
     <h2>   Me and my parents</h2>
      <img src="images/family.jpeg" height="300">
-      <br> 
-      <br>
-      <br>
-      <br>
-    <br>
-    <br>
     </center>
     </a>
 	  </body>
