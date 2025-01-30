@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-  <body bgcolor="#DAF7A6">
+<body bgcolor="#DAF7A6">
     <a href="index.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
@@ -22,6 +21,7 @@
 	  <body bgcolor="#FF8533">
     <center>
     <h1>This is my Portfolio Page!</h1>
+<body bgcolor="#DAF7A6">
       <img src="images/portfolio.jpg" height="250">
     </center>
 	  </body>
